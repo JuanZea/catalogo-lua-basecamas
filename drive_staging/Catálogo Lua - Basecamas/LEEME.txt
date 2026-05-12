@@ -1,0 +1,1 @@
+Catálogo preparado para subir a Google Drive cuando gog/OAuth quede reautorizado. Las fotos están numeradas por prioridad: 01 = enviar primero, 02/03 = apoyo, detalle/explicativa = usar según contexto.
